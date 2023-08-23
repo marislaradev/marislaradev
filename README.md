@@ -1,5 +1,5 @@
 ## Obrigada por visitar meu perfil! 😁✨
-<p>Eu sou a Mari!</p>
+<p>Eu sou a Mari! 👩‍💻</p>
 <p>Desenvolvedora de Software Back-end | Front-end | HTML | CSS | Javascript | Node.js | SQL | Git</p>
 
 <div>
@@ -7,8 +7,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marislaradev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marislaradev&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
-    
-  <br>
  
 ### Tecnologias compreendidas
 <div style="display: inline_block"><br>
