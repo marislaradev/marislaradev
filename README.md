@@ -1,4 +1,6 @@
 ## Obrigada por visitar meu perfil! 😁✨
+<p>Eu sou a Mari, estudante de Front-end e Back-end, pretendo me tornar Full Stack!</p>
+<p>Desenvolvedor de Software Back-end | Front-end | HTML | CSS | Javascript | Node.js | SQL | Git</p>
 
 <div>
   <a href="https://github.com/marislaradev">
@@ -9,6 +11,8 @@
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="nodeJs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg">
+  <img align="center" alt="git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg">  
 </div>
  
  <br>
