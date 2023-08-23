@@ -1,6 +1,6 @@
 ## Obrigada por visitar meu perfil! 😁✨
-<p>Eu sou a Mari, estudante de Front-end e Back-end, pretendo me tornar Full Stack!</p>
-<p>Desenvolvedor de Software Back-end | Front-end | HTML | CSS | Javascript | Node.js | SQL | Git</p>
+<p>Eu sou a Mari!</p>
+<p>Desenvolvedora de Software Back-end | Front-end | HTML | CSS | Javascript | Node.js | SQL | Git</p>
 
 <div>
   <a href="https://github.com/marislaradev">
