@@ -19,8 +19,7 @@
 
 <br>
 
-### Me siga nas redes abaixo!
+### Conecte-se comigo no Linkedin!
 <div> 
-  <a href="https://www.instagram.com/maris.lara/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/mariana-da-silva-lara-380871285/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
 </div>
