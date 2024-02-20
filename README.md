@@ -1,11 +1,11 @@
 <h1 align="center">Oi 👋, Eu sou a a Mari!</h1>
 <h3 align="center">Desenvolvedora Web Full Stack Jr. | HTML | CSS | JavaScript | Node.js | React.js | PostgreSQL</h3>
 
-- 🔭 Atualmente estou trabalhando em **um projeto React, chamado RapFlix**
+- ✨ Atualmente estou trabalhando em **um projeto React, chamado RapFlix**
 
 - 🌱 Atualmente estou aprendendo **React**
 
-- 👨‍💻 Todos os meus projetos estão disponíveis em [https://portfolio-mariana-da-silva-laras-projects.vercel.app/](https://portfolio-mariana-da-silva-laras-projects.vercel.app/)
+- 👩‍💻 Todos os meus projetos estão disponíveis em [https://portfolio-mariana-da-silva-laras-projects.vercel.app/](https://portfolio-mariana-da-silva-laras-projects.vercel.app/)
 
 - 📫 Como me encontrar **marislaradev@outlook.com**
 
