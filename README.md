@@ -3,13 +3,13 @@
 
 - ✨ Atualmente estou trabalhando em **um projeto React, de uma pizzaria**
   
-- 📚 Estou lendo **"O milagre da atenção plena" do mestre budista Thich Nhat Hanh**
+- 📚 Estou lendo **"O guia do mochileiro das galáxias**
 
-- 🌱 Atualmente estou me aprofundando em **React, Tailwind e Redux**
+- 🌱 Atualmente estou estudando **Python**
 
 - 👩‍💻 Todos os meus projetos estão disponíveis em [https://portfolio-mariana-da-silva-laras-projects.vercel.app/](https://portfolio-mariana-da-silva-laras-projects.vercel.app/)
 
-- 📫 Como me encontrar **marislaradev@outlook.com**
+- 📫 Como me encontrar **marianalaradev@gmail.com**
 
 - 📄 Se quiser saber mais sobre minhas experiências [https://www.linkedin.com/in/mariana-da-silva-lara/](https://www.linkedin.com/in/mariana-da-silva-lara/)
 
