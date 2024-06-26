@@ -3,7 +3,7 @@
 
 - ✨ Atualmente estou trabalhando em **um projeto React, de uma pizzaria**
   
-- 📚 Estou lendo **"O guia do mochileiro das galáxias**
+- 📚 Estou lendo **"O guia do mochileiro das galáxias"**
 
 - 🌱 Atualmente estou estudando **Python**
 
